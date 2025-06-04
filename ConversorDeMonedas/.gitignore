@@ -1,0 +1,52 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+# Archivos y carpetas de configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Carpeta de compilación por defecto de IntelliJ
+out/
+
+# Archivos temporales o de sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración personal
+*.ipr
+*.iws
+
+# Opcional: archivos del sistema operativo
+ehthumbs.db
+#ignorando dependencias para mantener el repo liviano
+libs/
+config/config.properties
