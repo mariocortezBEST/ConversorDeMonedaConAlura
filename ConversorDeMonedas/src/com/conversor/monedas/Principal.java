@@ -8,7 +8,7 @@ public class Principal {
         String apiKey = "your_api_key";
 =======
         String apiKey = "your API_key";
->>>>>>> f92cabddf7cae1a300e8b33f6f7d0c2daacc179d
+>>>>>>> 
 
         ConversorDeMonedas conversor = new ConversorDeMonedas(apiKey);
         conversor.iniciar();
