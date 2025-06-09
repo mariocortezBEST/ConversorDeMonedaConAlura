@@ -193,7 +193,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 👨‍💻 Autor
 
-**Tu Nombre** - [@tu-usuario](https://github.com/tu-usuario)
+**Tu Nombre** - [@tu-usuario](https://github.com/mariocortezBEST)
 
 ## 🙏 Agradecimientos
 
@@ -203,9 +203,9 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 📧 Contacto
 
-- **Email**: tu-email@ejemplo.com
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- **Portfolio**: [tu-portfolio.com](https://tu-portfolio.com)
+- **Email**: mrcortez566@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/maritocortez/
+- **Portfolio**: https://github.com/mariocortezBEST
 
 ## 🐛 Reportar Bugs
 
